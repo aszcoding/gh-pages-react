@@ -2,7 +2,7 @@
   "name": "gh-pages-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://github.com/aszcoding/gh-pages-react/settings/pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
